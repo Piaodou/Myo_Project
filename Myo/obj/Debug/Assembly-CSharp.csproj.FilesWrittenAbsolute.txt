@@ -1,0 +1,13 @@
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/UnityEngine.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/UnityEditor.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Hennary/Documents/Myo_Project/Myo/Temp/bin/Debug/Mono.Cecil.Mdb.dll
